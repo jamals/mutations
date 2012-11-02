@@ -12,7 +12,7 @@ public class julius {
 	public julius(String fileName, int encrypt)
 	{
 		this.e_ncrypt = encrypt;
-		String text;// = "abcdefghijklmnopqrstuvwxyz";//I ate rice and stuff";
+		String text;// = "abcdefghijklmnopqrstuvwxyz";//I ate rice and stuff"; yes
 		
 		
 		text = readFile(fileName);
